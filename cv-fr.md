@@ -14,8 +14,8 @@ Ingénieur logiciel avec un Master en Génie Logiciel et une expérience en tant
 
 - 📧 [sbsouhail@gmail.com](mailto:sbsouhail@gmail.com)
 - 📞 +216 28823442
-- 💻 GitHub: [@Sbsouhail](https://github.com/Sbsouhail)
-- 🔗 LinkedIn: [Souhail SBOUI](https://www.linkedin.com/in/sbsouhail)
+- 💻 GitHub: [@sbsouhail](https://github.com/sbsouhail)
+- 🔗 LinkedIn: [@sbsouhail](https://www.linkedin.com/in/sbsouhail)
 
 ---
 
