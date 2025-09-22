@@ -19,11 +19,17 @@ Software engineer with a Master’s in Software Engineering and experience as a 
 
 ---
 
-## Contact
-
+<div class="columns">
+<div class="column">
 - 📧 sbsouhail@gmail.com
 - 📞 +216 28823442
 - 💻 GitHub: [@Sbsouhail](https://github.com/Sbsouhail)
+</div>
+<div class="column">
+- Languages: Arabic (Native), English (Proficient), French (Intermediate)
+- Soft Skills: Leadership · Problem Solving · Critical Thinking · Communication · Detail-Oriented · Mentorship · Team Collaboration
+</div>
+</div>
 
 ---
 
@@ -82,17 +88,3 @@ Software engineer with a Master’s in Software Engineering and experience as a 
 **Databases:** MongoDB · MySQL · PostgreSQL  
 **Frameworks & Tools:** NestJS · ExpressJs · Fastify · Laravel · VueJs · Ruby On Rails · GraphQL · Apollo Server · Mercurius · Prisma · TypeORM · Docker · S3 · SES · Directus · FCM · FilamentPHP · Magento · Shopify · PrestaShop  
 **Other:** Microservices Architecture · API Design · Performance Optimization · AI Integration · Job Queues · Caching Strategies · CI/CD
-
----
-
-## Languages
-
-- Arabic: Native
-- English: Proficient
-- French: Intermediate
-
----
-
-## Soft Skills
-
-Leadership · Problem Solving · Critical Thinking · Communication · Detail-Oriented · Mentorship · Team Collaboration
