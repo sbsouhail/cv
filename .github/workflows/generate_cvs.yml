@@ -5,8 +5,8 @@ on:
     branches:
       - main
     paths:
-      - 'cv-*.md'   # Only run when Markdown CV files change
-  workflow_dispatch: # Allows manual trigger
+      - 'cv-*.md'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -36,7 +36,7 @@ jobs:
           python generate_pdf.py
 
       - name: Upload PDFs as artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: CV-PDFs
           path: '*.pdf'
