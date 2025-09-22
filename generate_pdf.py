@@ -4,13 +4,13 @@ from weasyprint import HTML, CSS
 
 # CSS for professional PDF formatting
 css = CSS(string="""
-@page { size: A4; margin: 2cm; }
-body { font-family: 'Arial', sans-serif; font-size: 12pt; line-height: 1.3; color: #222; }
-h1 { font-size: 24pt; margin-bottom: 0.3em; }
-h2 { font-size: 18pt; margin-top: 1em; margin-bottom: 0.3em; color: #1a1a1a; }
-h3 { font-size: 14pt; margin-top: 0.8em; margin-bottom: 0.2em; color: #1a1a1a; }
-p, li { font-size: 12pt; margin-bottom: 0.2em; }
-ul { padding-left: 1em; margin-bottom: 0.5em; }
+@page { size: A4; margin: 1.5cm; }  /* Reduced margins */
+body { font-family: 'Arial', sans-serif; font-size: 11pt; line-height: 1.2; color: #222; }  /* Smaller font and tighter spacing */
+h1 { font-size: 20pt; margin-bottom: 0.2em; }  /* Smaller headings */
+h2 { font-size: 16pt; margin-top: 0.8em; margin-bottom: 0.2em; color: #1a1a1a; }
+h3 { font-size: 13pt; margin-top: 0.5em; margin-bottom: 0.1em; color: #1a1a1a; }
+p, li { font-size: 11pt; margin-bottom: 0.1em; }
+ul { padding-left: 0.8em; margin-bottom: 0.3em; }
 strong { font-weight: bold; }
 """)
 
