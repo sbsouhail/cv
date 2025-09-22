@@ -40,3 +40,20 @@ jobs:
         with:
           name: CV-PDFs
           path: '*.pdf'
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: "cv-pdfs-${{ github.run_number }}"
+          name: "CV PDFs - Run #${{ github.run_number }}"
+          body: "Automatically generated CV PDFs from Markdown files"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload PDFs to Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: "*.pdf"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
