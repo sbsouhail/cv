@@ -1,32 +1,32 @@
-import glob, markdown, os
+import glob, markdown
 from weasyprint import HTML, CSS
 
-# Optimized CSS for compact yet readable layout
+# CSS optimized for readability and 2-page layout
 css = CSS(string="""
 @page {
     size: A4;
-    margin: 1.2cm;
+    margin: 1.3cm;
 }
 body {
     font-family: 'Helvetica', 'Arial', sans-serif;
-    font-size: 10.5pt;
-    line-height: 1.15;
+    font-size: 11pt;
+    line-height: 1.25;
     color: #222;
 }
-h1 { font-size: 18pt; margin-bottom: 0.2em; }
-h2 { font-size: 15pt; margin-top: 0.5em; margin-bottom: 0.1em; color: #111; }
-h3 { font-size: 12.5pt; margin-top: 0.3em; margin-bottom: 0.05em; color: #111; }
-p, li { font-size: 10.5pt; margin-bottom: 0.1em; }
-ul, ol { padding-left: 1em; margin-top: 0.1em; margin-bottom: 0.2em; }
+h1 { font-size: 20pt; margin-bottom: 0.3em; }
+h2 { font-size: 16pt; margin-top: 0.8em; margin-bottom: 0.3em; color: #111; }
+h3 { font-size: 13pt; margin-top: 0.5em; margin-bottom: 0.2em; color: #111; }
+p, li { font-size: 11pt; margin-bottom: 0.2em; }
+ul, ol { padding-left: 1em; margin-top: 0.3em; margin-bottom: 0.3em; }
 strong { font-weight: bold; }
 a { color: #1a0dab; text-decoration: none; }
 hr { border: 0; border-top: 1px solid #ccc; margin: 0.5em 0; }
 
-/* 2-column layout for contact, languages, soft skills */
+/* 2-column layout only for contact / small info */
 .columns {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 0.2em;
+    margin-bottom: 0.5em;
 }
 .column {
     width: 48%;
@@ -44,7 +44,6 @@ else:
             with open(md_file, "r", encoding="utf-8") as f:
                 md_content = f.read()
             
-            # Add title for PDF metadata
             html_content = markdown.markdown(md_content, extensions=['tables', 'fenced_code'])
             html = f"""
             <html>
