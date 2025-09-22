@@ -1,7 +1,8 @@
-import glob, markdown
+import glob
+import markdown
 from weasyprint import HTML, CSS
 
-# CSS optimized for readability and 2-page layout
+# CSS optimized for readable layout
 css = CSS(string="""
 @page {
     size: A4;
@@ -21,19 +22,9 @@ ul, ol { padding-left: 1em; margin-top: 0.3em; margin-bottom: 0.3em; }
 strong { font-weight: bold; }
 a { color: #1a0dab; text-decoration: none; }
 hr { border: 0; border-top: 1px solid #ccc; margin: 0.5em 0; }
-
-/* 2-column layout only for contact / small info */
-.columns {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 0.5em;
-}
-.column {
-    width: 48%;
-}
 """)
 
-# Find all Markdown CV files starting with "cv-"
+# Generate PDFs from all Markdown files starting with "cv-"
 md_files = glob.glob("cv-*.md")
 
 if not md_files:
@@ -43,17 +34,9 @@ else:
         try:
             with open(md_file, "r", encoding="utf-8") as f:
                 md_content = f.read()
-            
+
             html_content = markdown.markdown(md_content, extensions=['tables', 'fenced_code'])
-            html = f"""
-            <html>
-                <head>
-                    <meta charset='utf-8'>
-                    <title>{md_file.replace('.md', '')} - CV</title>
-                </head>
-                <body>{html_content}</body>
-            </html>
-            """
+            html = f"<html><head><meta charset='utf-8'></head><body>{html_content}</body></html>"
 
             pdf_file = md_file.replace(".md", ".pdf")
             HTML(string=html).write_pdf(pdf_file, stylesheets=[css])
