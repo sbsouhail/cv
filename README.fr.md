@@ -1,76 +1,92 @@
 # Souhail SBOUI
-**Développeur Backend | Chef d’équipe technique**  
-📧 sbsouhail@gmail.com | 📱 +216 28823442  
-🌐 [LinkedIn](https://www.linkedin.com/in/sbsouhail) | GitHub: [@Sbsouhail](https://github.com/Sbsouhail)  
+
+**Ingénieur Logiciel**
 
 ---
 
-## 📝 Profil
-Développeur backend devenu **chef d’équipe technique**, avec une solide expérience dans la conception de systèmes évolutifs et la gestion de projets à fort impact. Spécialisé en **architecture microservices, optimisation de performances et DevOps**. Passionné par l’**intégration de nouvelles technologies, l’IA appliquée et l’amélioration continue de la qualité logicielle**.
+## À propos de moi
+
+Ingénieur logiciel expérimenté avec un master en génie logiciel, devenu Technical Team Lead. Compétent dans l’adaptation rapide aux nouvelles technologies, la prise de décision et la direction d’équipes pour optimiser la qualité du code et la performance des projets. Passionné par l’apprentissage continu et la création de solutions logicielles évolutives et performantes.
 
 ---
 
-## 💼 Expériences professionnelles
+## Contact
 
-### **Chef d’équipe technique**  
-**Tuintek, Sousse** | Oct 2023 – Présent  
-- Gestion d’une équipe backend pour concevoir et mettre en place des systèmes évolutifs.  
-- Optimisation des index et requêtes base de données : **+30 % de performance**.  
-- Amélioration d’un outil utilisé sur **iOS & Google Wallet** via la correction de bugs critiques.  
-- Intégration d’une **IA basée sur ChatGPT** pour la reconnaissance alimentaire dans un projet gouvernemental santé/fitness.  
+- 📧 sbsouhail@gmail.com
+- 📞 +216 28823442
+- 💻 GitHub : [@Sbsouhail](https://github.com/Sbsouhail)
 
 ---
 
-### **Développeur Backend**  
-**Astrolab Agency, Sousse** | Fév 2022 – Sep 2023  
-- Développement d’un **middleware d’intégration Shopify & PrestaShop**, automatisant la synchronisation produits/inventaires.  
-- Conception et réalisation d’une **plateforme d’enchères en temps réel** pour un ministère qatari (microservices, queues, caching).  
-- Conception de schémas relationnels et développement d’**APIs REST documentées** pour dashboards et application mobile.  
+## Expérience Professionnelle
+
+### Technical Team Lead | Astrolab Agency, Sousse | Oct 2023 – Sep 2023
+
+- Conversion de l’outil de création de pass iOS/Google Wallet en architecture microservices, optimisant les performances, améliorant l’indexation des bases de données et obtenant un gain de performance de 30 %.
+- Développement d’un projet gouvernemental de fitness et santé en microservices, intégrant ChatGPT AI pour la reconnaissance avancée des aliments et des suggestions personnalisées.
+- Collaboration sur plusieurs projets pour améliorer la stabilité et la performance des applications.
+- Mentorat et supervision des développeurs juniors pour garantir la qualité du code et la livraison des projets.
+
+### Backend Developer | Astrolab Agency, Sousse | Fév 2022 – Sep 2023
+
+- Création d’un middleware pour l’intégration Shopify et PrestaShop, simplifiant la gestion des produits et stocks avec des logiciels tiers.
+- Développement d’une plateforme d’enchères en temps réel pour un ministère qatari utilisant microservices, jobs, queues et stratégie de cache pour la scalabilité.
+- Gestion de la conception des bases de données et développement d’API REST entièrement documentées pour dashboards et applications mobiles.
+
+### Backend Developer | Tuintek, Sousse | Nov 2020 – Fév 2022
+
+- Participation à plusieurs projets en corrigeant des bugs, en ajoutant de nouvelles fonctionnalités et en améliorant la stabilité des logiciels.
+- Collaboration avec des équipes interfonctionnelles pour développer des fonctionnalités alignées avec les besoins clients.
+- Participation à des sessions de résolution de problèmes pour améliorer la satisfaction des utilisateurs.
+
+### Fullstack Developer (Freelance) | Mar 2020 – Fév 2022
+
+- Développement d’un système de gestion des employés avec Laravel pour simplifier les opérations RH.
+- Création d’un système de gestion de coupons et de restaurants avec dashboard et application mobile.
+- Livraison de solutions fullstack pour divers clients, débogage, implémentation de fonctionnalités et optimisation des performances.
+- Développement de solutions web et backend pour des petites entreprises.
+
+### Stage | AEROPACK, Zaghouan | Jan 2020 – Fév 2020
+
+- Développement d’un site vitrine statique pour présenter les produits et services de l’entreprise, améliorant la visibilité en ligne.
 
 ---
 
-### **Développeur Backend**  
-**AEROPACK, Zaghouan** | Nov 2020 – Fév 2022  
-- Amélioration d’un **système de gestion des employés** (Laravel) : automatisation des paiements & suivi de performance.  
-- Développement d’un **système de gestion des stocks** avec Laravel + Vue.js.  
-- Collaboration avec des équipes transverses pour assurer **intégrité et sécurité des données**.  
+## Projets
+
+### Solution de Réservation de Stades | Jan 2024 – Jul 2024
+
+- Développement d’une API GraphQL performante intégrant les services Firebase (FCM, Cloud Storage).
+- Configuration de l’environnement de déploiement Docker pour les applications backend et frontend.
 
 ---
 
-### **Développeur Freelance**  
-**Solution de réservation de stades** | Jan 2024 – Juil 2024  
-- Développement d’une **API GraphQL haute performance** intégrant Firebase (FCM, Cloud Storage).  
-- Mise en place d’un environnement de déploiement **Dockerisé** (backend & frontend).  
+## Formation
+
+**ISET de Sousse**
+
+- Master en Génie Logiciel | 2024
+- Licence en Technologie Informatique – Développement de Systèmes d’Information | 2018–2022
 
 ---
 
-### **Stage**  
-**ISET de Sousse** | Mar 2020 – Nov 2020  
-- Réalisation d’un site vitrine statique afin d’améliorer la **présence en ligne** d’une entreprise.  
+## Compétences Techniques
+
+**Langages de programmation :** TypeScript, C#, Java, Rust, PHP, Ruby  
+**Bases de données :** MongoDB, MySQL, PostgreSQL  
+**Frameworks :** NestJS, ExpressJs, Fastify, Laravel, VueJs, Ruby On Rails  
+**Autres technologies :** GraphQL, Mercurius, Apollo Server, Magento, Prestashop, Shopify, Prisma, TypeORM, Docker, S3, SES, Directus, FCM, FilamentPHP
 
 ---
 
-## 🚀 Projets clés
-- **Application santé et fitness (gouvernementale)** – Système microservices avec **intégration IA (ChatGPT)** pour recommandations personnalisées.  
-- **Plateforme d’enchères (ministère du Qatar)** – Système temps réel avec queues, jobs et caching.  
-- **Solution de réservation de stades (freelance)** – API GraphQL complète avec Firebase & Docker.  
+## Langues
+
+- Arabe : Langue maternelle
+- Anglais : Courant
+- Français : Intermédiaire
 
 ---
 
-## 🛠 Compétences
+## Soft Skills
 
-**Langages :** TypeScript, C#, Java, Rust, PHP, Ruby  
-**Frameworks :** NestJS, Express.js, Fastify, Laravel, Vue.js, Ruby on Rails  
-**Bases de données :** PostgreSQL, MongoDB, MySQL  
-**DevOps & Outils :** Docker, AWS (S3, SES), Firebase (FCM, Cloud Storage), GraphQL (Apollo, Mercurius), Prisma, TypeORM  
-**E-commerce :** Shopify, PrestaShop, Magento, Directus, FilamentPHP  
-
-**Compétences transverses :** Leadership, Prise de décision, Résolution de problèmes, Communication, Rigueur  
-
-**Langues :** Arabe (Natif), Anglais (Courant), Français (Intermédiaire)  
-
----
-
-## 🎓 Formation
-- **Master en Génie Logiciel** — ISET de Sousse (2024)  
-- **Licence en Technologie Informatique (Développement des systèmes d’information)** — ISET de Sousse (2018 – 2022)  
+Observation, Prise de décision, Résolution de problèmes, Communication efficace, Sens du détail
