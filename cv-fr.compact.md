@@ -47,14 +47,16 @@ _Oct 2023 – Présent_
 
 _Fév 2022 – Sep 2023_
 
-- Développement de middleware Shopify/PrestaShop et plateforme d’enchères en temps réel pour un ministère qatari avec microservices et cache.
+- Développement de middleware Shopify/PrestaShop pour synchronisation produits/stocks avec plateformes tierces.
+- Pilotage de plateforme d'enchères en temps réel pour ministère qatari avec microservices et cache.
 - Conception de bases de données et APIs REST ; optimisation des performances backend.
 
 ### Développeur Fullstack (Freelance)
 
 _Mar 2020 – Fév 2022_
 
-- Développement de systèmes de gestion employés et restaurant/coupons avec Laravel et dashboards.
+- Développement de système de gestion des employés avec Laravel pour automatiser les opérations RH.
+- Création de système de gestion de coupons et restaurants avec dashboard et application mobile.
 - Livraison de solutions full-stack maintenables, débogage et amélioration continue.
 
 ### Stage | AEROPACK, Zaghouan
@@ -87,7 +89,10 @@ _Jan 2024 – Jul 2024_
 
 ## Compétences Techniques
 
-**Langages :** TypeScript · C# · Java · Rust · PHP · Ruby  
-**Bases de données :** MongoDB · MySQL · PostgreSQL  
-**Frameworks & Outils :** NestJS · ExpressJS · Fastify · Laravel · VueJS · Ruby on Rails · GraphQL · Apollo Server · Mercurius · Prisma · TypeORM · Docker · S3 · SES · Directus · FCM · FilamentPHP · Magento · Shopify · PrestaShop  
+**Langages :** TypeScript · C# · Java · Rust · PHP · Ruby
+
+**Bases de données :** MongoDB · MySQL · PostgreSQL
+
+**Frameworks & Outils :** NestJS · ExpressJS · Fastify · Laravel · VueJS · Ruby on Rails · GraphQL · Apollo Server · Mercurius · Prisma · TypeORM · Docker · S3 · SES · Directus · FCM · FilamentPHP · Magento · Shopify · PrestaShop
+
 **Autres :** Architecture Microservices · Conception API · Optimisation Performance · Intégration IA · Jobs et Queues · Stratégies de cache · CI/CD
