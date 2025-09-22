@@ -4,8 +4,8 @@ This repository contains my Curriculum Vitae in multiple languages in Markdown f
 
 ## Available CVs
 
-- [English CV](cv-en.pdf)
-- [French CV](cv-fr.pdf)
+- [English CV](cv-en.md)
+- [French CV](cv-fr.md)
 
 ---
 
