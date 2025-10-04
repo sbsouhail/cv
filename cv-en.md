@@ -1,35 +1,31 @@
 # Souhail SBOUI
 
-**Software Engineer**
+**Software Engineer | Backend Team Lead**
 
 ---
 
 ## About Me
 
-Software engineer with a Master’s degree in Software Engineering and experience as a Technical Team Lead. Specialize in designing scalable backend systems, optimizing performance, and mentoring teams. Adaptable, detail-oriented, and passionate about delivering maintainable, high-quality software solutions that create measurable impact.
+Software engineer with a Master’s degree in Software Engineering and proven experience as a Technical Team Lead. I design and scale high-performance backend systems, lead teams to deliver impactful projects, and optimize performance across cloud-native and distributed architectures. Passionate about simplicity, attention to detail, and creating maintainable software with measurable business impact.
 
 ---
 
 ## Contact
 
-- 📧 [sbsouhail@gmail.com](mailto:sbsouhail@gmail.com)
+- 📧 sbsouhail@gmail.com
 - 📞 +216 28823442
-- 💻 GitHub: [@sbsouhail](https://github.com/sbsouhail)
-- 🔗 LinkedIn: [@sbsouhail](https://www.linkedin.com/in/sbsouhail)
+- 💻 GitHub: [github.com/sbsouhail](https://github.com/sbsouhail)
+- 🔗 LinkedIn: [linkedin.com/in/sbsouhail](https://www.linkedin.com/in/sbsouhail)
 
 ---
 
-## Languages
+## Technical Skills
 
-- Arabic: Native
-- English: Proficient
-- French: Intermediate
-
----
-
-## Soft Skills
-
-Leadership · Problem Solving · Critical Thinking · Communication · Detail-Oriented · Mentorship · Team Collaboration
+**Languages:** TypeScript · Rust · PHP · C# · Java · Ruby  
+**Databases:** PostgreSQL · MongoDB · MySQL  
+**Frameworks & Tools:** NestJS · Fastify · ExpressJS · Laravel · VueJS · Ruby on Rails · GraphQL (Mercurius, Apollo) · Prisma · TypeORM · FilamentPHP  
+**DevOps & Cloud:** Docker · GitLab CI/CD · AWS (S3, SES) · GCP (Cloud Storage, FCM, Auth) · OVH VPS · Redis · Azure Cosmos DB  
+**Other:** Microservices Architecture · API Design · Performance Optimization · AI Integration · Caching Strategies · Job Queues · CI/CD Pipelines
 
 ---
 
@@ -39,65 +35,87 @@ Leadership · Problem Solving · Critical Thinking · Communication · Detail-Or
 
 _Oct 2023 – Present_
 
-- Migrated a widely-used iOS and Google Wallet pass creation tool to microservices, improving database indexing and queries, leading to a **30% performance increase**.
-- Developed a government fitness & healthcare platform with microservices and ChatGPT AI integration for advanced food recognition and personalized recommendations.
-- Mentored junior developers, enforced coding standards, and ensured timely, high-quality delivery.
-- Boosted system stability and scalability by identifying bottlenecks and implementing robust backend solutions.
-- Collaborated with cross-functional teams to troubleshoot issues, optimize workflows, and deliver client-focused features.
+- Migrated an iOS/Google Wallet pass generation platform from ExpressJS to NestJS + Fastify, boosting performance by **30%** and improving scalability.
+- Designed and delivered a government fitness & healthcare platform with AI food recognition (ChatGPT integration) and microservices.
+- Mentored junior developers, enforced coding standards, and drove timely delivery of high-quality solutions.
+- Collaborated with product managers and designers to align technical delivery with client needs.
+
+_Tech stack: NestJS, Fastify, Swagger, PostgreSQL, AWS S3/SES_
+
+---
 
 ### Backend Developer | Astrolab Agency, Sousse
 
 _Feb 2022 – Sep 2023_
 
-- Built Shopify and PrestaShop middleware, automating product and inventory synchronization with third-party platforms.
-- Led development of a real-time auction platform for a Qatari ministry using microservices, jobs, queues, and caching strategies for high scalability.
-- Designed efficient database schemas and fully documented REST APIs for dashboards and mobile applications.
-- Optimized backend processes, queries, and indexing to improve performance and reliability.
+- Built Shopify/PrestaShop middleware for product & inventory synchronization using SOAP/FTP integrations.
+- Led development of a **real-time auction platform** for a Qatari ministry using microservices, Redis queues, and caching strategies, deployed on Azure with Cosmos DB and monitoring services.
+- Designed scalable database schemas and documented REST APIs for dashboards and mobile applications.
+- Improved backend performance with query/indexing optimizations and caching layers.
+
+_Tech stack: NestJS, Redis, Azure Cosmos DB, SOAP/FTP integrations, Swagger_
+
+---
 
 ### Fullstack Developer (Freelance)
 
 _Mar 2020 – Feb 2022_
 
-- Developed Laravel-based employee management system for streamlined HR operations.
-- Built coupon and restaurant management system with dashboard and mobile app to improve operational efficiency.
-- Delivered stable, maintainable full-stack solutions across multiple clients.
-- Provided debugging, feature enhancements, and ongoing maintenance to ensure software stability.
+- Delivered an employee management system (Laravel, PostgreSQL, FilamentPHP) with MinIO-based secure storage.
+- Built a coupon and restaurant management system (Laravel, PostgreSQL) with dashboard + mobile app.
+- Automated deployments with GitLab CI/CD pipelines and hosted on OVH VPS.
+- Provided feature enhancements, debugging, and long-term maintenance.
+
+_Tech stack: Laravel, PostgreSQL, FilamentPHP, MinIO, GitLab CI/CD, OVH VPS_
+
+---
 
 ### Internship | AEROPACK, Zaghouan
 
 _Jan 2020 – Feb 2020_
 
-- Developed a static showcase website to improve company online presence and user engagement.
+- Developed a static corporate showcase website to enhance online presence.
 
 ---
 
-## Projects
+## Selected Projects
 
 ### Stadium Booking Solution
 
 _Jan 2024 – Jul 2024_
 
-- Developed a high-performance GraphQL API integrated with Firebase services (FCM, Cloud Storage).
-- Configured Docker-based deployment for backend and frontend to ensure scalable delivery.
-- Implemented authentication, real-time notifications, and synchronized data for enhanced user experience.
+- Designed a high-performance GraphQL API with NestJS, Fastify, Mercurius and PostgreSQL.
+- Integrated Firebase services (Auth, FCM, Cloud Storage) for authentication, notifications, and storage.
+- Deployed backend & frontend with Docker, automated with GitLab pipelines, running on OVH VPS.
+
+_Tech stack: NestJS, Fastify, Mercurius GraphQL, PostgreSQL, Firebase, GCP Storage, Docker, GitLab CI/CD, OVH VPS_
+
+---
+
+### Point of Sale (POS) – In Progress
+
+_2024 – Present_
+
+- Developing a POS system for retail & hospitality covering sales, products, and stock management.
+- Loyalty integration with iOS/Google Wallet and sync with Shopify/PrestaShop.
+- Built with Rust, Tauri, and VueJS for secure, cross-platform performance.
+- Continuous integration via GitLab CI/CD and deployed on OVH VPS.
+
+_Tech stack: Rust, Tauri, VueJS, Shopify/PrestaShop APIs, iOS/Google Wallet, GitLab CI/CD, OVH VPS_
 
 ---
 
 ## Education
 
-**ISET Of Sousse**
+**ISET of Sousse**
 
 - Master’s in Software Engineering | 2024
-- Bachelor’s in Computer Technology – Development of Information Systems | 2018–2022
+- Bachelor’s in Computer Technology – Information Systems Development | 2018–2022
 
 ---
 
-## Technical Skills
+## Languages
 
-**Languages:** TypeScript · C# · Java · Rust · PHP · Ruby
-
-**Databases:** MongoDB · MySQL · PostgreSQL
-
-**Frameworks & Tools:** NestJS · ExpressJS · Fastify · Laravel · VueJS · Ruby on Rails · GraphQL · Apollo Server · Mercurius · Prisma · TypeORM · Docker · S3 · SES · Directus · FCM · FilamentPHP · Magento · Shopify · PrestaShop
-
-**Other:** Microservices Architecture · API Design · Performance Optimization · AI Integration · Job Queues · Caching Strategies · CI/CD
+- Arabic: Native
+- English: Proficient
+- French: Intermediate
