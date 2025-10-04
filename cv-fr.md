@@ -82,7 +82,7 @@ _Jan 2020 – Fév 2020_
 
 ### Solution de Réservation de Stades
 
-_Jan 2024 – Juil 2024_
+_Jan 2024 – Juil 2025_
 
 - API GraphQL haute performance (NestJS, Fastify, Mercurius) avec PostgreSQL.
 - Intégration Firebase (Auth, FCM, Cloud Storage) pour notifications, stockage et authentification.
@@ -94,7 +94,7 @@ _Stack : NestJS, Fastify, Mercurius GraphQL, PostgreSQL, Firebase, GCP Storage, 
 
 ### Point of Sale (POS) – En cours
 
-_2024 – Présent_
+_2025 – Présent_
 
 - Développement d’un POS multi-plateforme pour retail & hôtellerie : ventes, produits, stocks.
 - Intégration fidélité via iOS/Google Wallet et synchronisation Shopify/PrestaShop.

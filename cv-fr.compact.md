@@ -73,14 +73,14 @@ _Jan 2020 – Fév 2020_
 
 ### Solution de Réservation de Stades (Personnel)
 
-_Jan – Juil 2024_
+_Jan 2024 – Juil 2025_
 
 - API GraphQL performante (NestJS, Fastify, Mercurius, PostgreSQL).
 - Intégration Firebase (Auth, FCM, Storage) + déploiement Docker/GitLab CI/CD sur OVH VPS.
 
 ### Point of Sale (POS) – En cours
 
-_2024 – Présent_
+_2025 – Présent_
 
 - POS multi-plateforme pour retail & hôtellerie (ventes, stocks, produits).
 - Intégration fidélité (iOS/Google Wallet) + sync Shopify/PrestaShop.

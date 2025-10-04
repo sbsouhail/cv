@@ -73,14 +73,14 @@ _Jan 2020 – Feb 2020_
 
 ### Stadium Booking Solution (Personal)
 
-_Jan – Jul 2024_
+_Jan 2024 – Jul 2025_
 
 - High-performance GraphQL API (NestJS, Fastify, Mercurius, PostgreSQL).
 - Integrated Firebase (Auth, FCM, Storage) and deployed via Docker + GitLab CI/CD on OVH VPS.
 
 ### Point of Sale (POS) – In Progress
 
-_2024 – Present_
+_2025 – Present_
 
 - Cross-platform POS for retail & hospitality (sales, products, stocks).
 - Features: loyalty integration (iOS/Google Wallet), Shopify/PrestaShop sync.

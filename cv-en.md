@@ -82,7 +82,7 @@ _Jan 2020 – Feb 2020_
 
 ### Stadium Booking Solution
 
-_Jan 2024 – Jul 2024_
+_Jan 2024 – Jul 2025_
 
 - Designed a high-performance GraphQL API with NestJS, Fastify, Mercurius and PostgreSQL.
 - Integrated Firebase services (Auth, FCM, Cloud Storage) for authentication, notifications, and storage.
@@ -94,7 +94,7 @@ _Tech stack: NestJS, Fastify, Mercurius GraphQL, PostgreSQL, Firebase, GCP Stora
 
 ### Point of Sale (POS) – In Progress
 
-_2024 – Present_
+_2025 – Present_
 
 - Developing a POS system for retail & hospitality covering sales, products, and stock management.
 - Loyalty integration with iOS/Google Wallet and sync with Shopify/PrestaShop.
