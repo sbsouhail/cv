@@ -40,7 +40,7 @@ _Oct 2023 – Present_
 - Mentored junior developers, enforced coding standards, and drove timely delivery of high-quality solutions.
 - Collaborated with product managers and designers to align technical delivery with client needs.
 
-_Tech stack: NestJS, Fastify, Swagger, PostgreSQL, AWS S3/SES_
+_Tech focus: NestJS · Fastify · AWS (S3, SES)_
 
 ---
 
@@ -53,7 +53,7 @@ _Feb 2022 – Sep 2023_
 - Designed scalable database schemas and documented REST APIs for dashboards and mobile applications.
 - Improved backend performance with query/indexing optimizations and caching layers.
 
-_Tech stack: NestJS, Redis, Azure Cosmos DB, SOAP/FTP integrations, Swagger_
+_Tech focus: Redis · Azure Cosmos DB · SOAP/FTP integrations_
 
 ---
 
@@ -66,17 +66,7 @@ _Mar 2020 – Feb 2022_
 - Automated deployments with GitLab CI/CD pipelines and hosted on OVH VPS.
 - Provided feature enhancements, debugging, and long-term maintenance.
 
-_Tech stack: Laravel, PostgreSQL, FilamentPHP, MinIO, GitLab CI/CD, OVH VPS_
-
----
-
-### Internship | AEROPACK, Zaghouan
-
-_Jan 2020 – Feb 2020_
-
-- Developed a static corporate showcase website to enhance online presence.
-
----
+_Tech focus: Laravel · GitLab CI/CD · OVH VPS_
 
 ## Selected Projects
 
@@ -88,7 +78,7 @@ _Jan 2024 – Jul 2025_
 - Integrated Firebase services (Auth, FCM, Cloud Storage) for authentication, notifications, and storage.
 - Deployed backend & frontend with Docker, automated with GitLab pipelines, running on OVH VPS.
 
-_Tech stack: NestJS, Fastify, Mercurius GraphQL, PostgreSQL, Firebase, GCP Storage, Docker, GitLab CI/CD, OVH VPS_
+_Tech focus: GraphQL (Mercurius) · Firebase · GCP Storage · GitLab CI/CD · OVH VPS_
 
 ---
 
@@ -101,7 +91,7 @@ _2025 – Present_
 - Built with Rust, Tauri, and VueJS for secure, cross-platform performance.
 - Continuous integration via GitLab CI/CD and deployed on OVH VPS.
 
-_Tech stack: Rust, Tauri, VueJS, Shopify/PrestaShop APIs, iOS/Google Wallet, GitLab CI/CD, OVH VPS_
+_Tech focus: Rust · Tauri · VueJS · iOS/Google Wallet · Shopify/PrestaShop APIs · GitLab CI/CD_
 
 ---
 

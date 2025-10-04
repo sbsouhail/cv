@@ -40,7 +40,7 @@ _Oct 2023 – Présent_
 - Encadrement de développeurs juniors, mise en place de standards de code, suivi qualité et respect des délais.
 - Collaboration avec équipes produit et design pour aligner besoins clients et solutions techniques.
 
-_Stack : NestJS, Fastify, Swagger, PostgreSQL, AWS S3/SES_
+_Tech focus: NestJS · Fastify · AWS (S3, SES)_
 
 ---
 
@@ -53,7 +53,7 @@ _Fév 2022 – Sep 2023_
 - Conception de schémas BDD évolutifs et documentation complète des APIs REST.
 - Optimisation de requêtes et ajout de caches pour améliorer performances et fiabilité.
 
-_Stack : NestJS, Redis, Azure Cosmos DB, SOAP/FTP, Swagger_
+_Tech focus: Redis · Azure Cosmos DB · SOAP/FTP integrations_
 
 ---
 
@@ -66,17 +66,7 @@ _Mars 2020 – Fév 2022_
 - Mise en place de pipelines GitLab CI/CD et déploiement sur OVH VPS pour automatiser et fiabiliser les releases.
 - Support continu avec évolutions fonctionnelles et maintenance corrective.
 
-_Stack : Laravel, PostgreSQL, FilamentPHP, MinIO, GitLab CI/CD, OVH VPS_
-
----
-
-### Stage | AEROPACK, Zaghouan
-
-_Jan 2020 – Fév 2020_
-
-- Réalisation d’un site vitrine statique pour améliorer la présence en ligne de l’entreprise.
-
----
+_Tech focus: Laravel · GitLab CI/CD · OVH VPS_
 
 ## Projets Sélectionnés
 
@@ -88,7 +78,7 @@ _Jan 2024 – Juil 2025_
 - Intégration Firebase (Auth, FCM, Cloud Storage) pour notifications, stockage et authentification.
 - Déploiement backend/frontend via Docker, automatisé avec GitLab CI/CD sur OVH VPS.
 
-_Stack : NestJS, Fastify, Mercurius GraphQL, PostgreSQL, Firebase, GCP Storage, Docker, GitLab CI/CD, OVH VPS_
+_Tech focus: GraphQL (Mercurius) · Firebase · GCP Storage · GitLab CI/CD · OVH VPS_
 
 ---
 
@@ -101,7 +91,7 @@ _2025 – Présent_
 - Construit avec Rust, Tauri et VueJS pour performance et sécurité.
 - Intégration CI/CD avec GitLab et déploiement continu sur OVH VPS.
 
-_Stack : Rust, Tauri, VueJS, Shopify/PrestaShop APIs, iOS/Google Wallet, GitLab CI/CD, OVH VPS_
+_Tech focus: Rust · Tauri · VueJS · iOS/Google Wallet · Shopify/PrestaShop APIs · GitLab CI/CD_
 
 ---
 
